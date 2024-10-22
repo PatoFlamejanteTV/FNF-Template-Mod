@@ -1,6 +1,10 @@
 ﻿# FNFTemplate(FNF-Template-Mod)
 
 `modtemplate.Zip`, but with more content, documentation, reserved space, etc.
+<p align="center">
+   <img alt="GitHub License" src="https://img.shields.io/github/license/PatoFlamejanteTV/FNFTemplate">
+   <img alt="GitHub forks" src="https://img.shields.io/github/forks/PatoFlamejanteTV/FNFTemplate">
+</p>
 
 Made for testing/fun, you can use it base on your projects, but only if you follow the following terms below:
 
