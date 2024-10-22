@@ -2,7 +2,6 @@
 
 `modtemplate.Zip`, but with more content, documentation, reserved space, etc.
 <p align="center">
-   <img alt="GitHub License" src="https://img.shields.io/github/license/PatoFlamejanteTV/FNFTemplate">
    <img alt="GitHub forks" src="https://img.shields.io/github/forks/PatoFlamejanteTV/FNFTemplate">
 </p>
 
