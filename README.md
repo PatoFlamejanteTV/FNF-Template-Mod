@@ -1,6 +1,6 @@
 ﻿# FNFTemplate(FNF-Template-Mod)
 
-`modtemplate.Zip`, but with more content, documentation, reserved space, etc.
+`modtemplate.Zip`, but with more content, documentation, templates etc.
 <p align="center">
    <img alt="GitHub forks" src="https://img.shields.io/github/forks/PatoFlamejanteTV/FNFTemplate">
 </p>
